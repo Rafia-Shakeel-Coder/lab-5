@@ -17,7 +17,7 @@ namespace lab_5
           
            Product p1 = new Product(1, "WATCH", 1200.50);
 
-            Product p2 = new Product(2, "Mouse", 25.75);
+            Product p2 = new Product(2, "Mouse", 25.75);z
             cart.Addproduct(p1);
             cart.Addproduct(p2);
             cart.DisplayCart();
